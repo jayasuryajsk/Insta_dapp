@@ -8,9 +8,15 @@ The final assignment is to build a decentralized social network using the techno
 The technology stack:
 
 Node.JS
+
 Truffle
+
 Solidity
+
 Ganache-cli (unless you utilize one of the testnets')
+
 Cosmos? SingularityNET? OpenMined? Get creative!
+
 IPFS
+
 Whisper
